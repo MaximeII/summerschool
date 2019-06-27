@@ -16,6 +16,6 @@ int main(int argc, char *argv[])
 
     c *= 2;
     printf("*p is %d and c is %d\n", *p, c);
-
+    
     return 0;
 }
